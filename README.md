@@ -1,5 +1,5 @@
 <h1 align="center">hi! i'm Melody ^_^</h2>
-<img align="right" width="200" alt="" src="https://media.discordapp.net/attachments/711301866209673527/1446005826589294684/sKtxvAAAABklEQVQDAGsPVpKjVTrAAAAAElFTkSuQmCC.png?ex=6932695e&is=693117de&hm=3035af2737eb722cc49294a8d96a3bfe023d14070dc48a2a1b0f8998703320c6&=&format=webp&quality=lossless" />
+<img align="right" width="200" alt="" src="https://i.pinimg.com/1200x/0b/ae/8b/0bae8b7acce0ecd58c64916ffea9e417.jpg" />
 
 
 welcome ! i'm a multidisciplinary software engineer passionate about creating meaningful digital experiences at the intersection of creativity and technology.
