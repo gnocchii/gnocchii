@@ -12,7 +12,7 @@ I'm interested in ...
   <li>creative problem solving
 </ul>
 
-<h3 align="left">Reach me here:</h3>
+<h3 align="left">connect w/ me here:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/melody-yang-8634b5254/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
