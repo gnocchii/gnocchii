@@ -1,4 +1,4 @@
-<h1 align="center">hi! i'm Melody ^_^</h1>
+<h1 align="center">hi! i'm Melody ^__^</h1>
 
 <img align="right" width="200" src="https://github.com/user-attachments/assets/6e88c743-06e0-4991-a1cd-e0922761ef64" alt="Melody's profile picture" />
 
