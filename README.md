@@ -8,7 +8,7 @@
 </p>
 <p>I'm interested in ...</p>
 <ul>
-  <li>fullstack development</li>
+  <li>fullstack development (mostly frontend)</li>
   <li>AI research</li>
   <li>creative problem solving</li>
 </ul>
