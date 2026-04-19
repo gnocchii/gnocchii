@@ -1,15 +1,15 @@
-<h1 align="center">hi!^</h1>
+<h1 align="center">hi!</h1>
 <p>
   <br>
 </p>
 <img align="right" width="200" src="https://github.com/user-attachments/assets/6e88c743-06e0-4991-a1cd-e0922761ef64" alt="Melody's profile picture" />
 <p>
-  Welcome to my corner! I'm Melody, a CS student + tinkerer passionate about creating meaningful digital experiences at the intersection of creativity and technology.
+  welcome to my corner! i'm Melody, a cs student @ purdue + tinkerer passionate about creating meaningful digital experiences at the intersection of creativity and technology.
 </p>
-<p>I'm interested in ...</p>
+<p>i'm interested in ...</p>
 <ul>
   <li>fullstack development</li>
-  <li>AI research</li>
+  <li>ai research</li>
   <li>creative problem solving</li>
 </ul>
 <h3 align="left">connect w/ me here:</h3>
