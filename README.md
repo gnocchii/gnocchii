@@ -1,10 +1,10 @@
-<h1 align="center">hi! i'm Melody ^_^</h1>
+<h1 align="center">hi!^</h1>
 <p>
   <br>
 </p>
 <img align="right" width="200" src="https://github.com/user-attachments/assets/6e88c743-06e0-4991-a1cd-e0922761ef64" alt="Melody's profile picture" />
 <p>
-  Welcome to my corner! I'm a CS student + tinkerer passionate about creating meaningful digital experiences at the intersection of creativity and technology.
+  Welcome to my corner! I'm Melody, a CS student + tinkerer passionate about creating meaningful digital experiences at the intersection of creativity and technology.
 </p>
 <p>I'm interested in ...</p>
 <ul>
