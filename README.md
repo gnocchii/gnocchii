@@ -2,11 +2,12 @@
 
 <img align="right" width="200" src="https://github.com/user-attachments/assets/6e88c743-06e0-4991-a1cd-e0922761ef64" alt="Melody's profile picture" />
 
-i'm Melody, a cs student @ purdue + tinkerer passionate about creating meaningful digital experiences at the intersection of creativity and technology.
+i'm Melody, a student + tinkerer passionate about creating meaningful digital experiences at the intersection of creativity and technology.
 
 i'm currently interested in ...
 - fullstack development
 - ai research
+- tasteful design
 - creative problem solving
 
 ### connect with me here:
