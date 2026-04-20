@@ -1,18 +1,14 @@
-<h1 align="center">hi, welcome to my corner! </h1>
-<p>
-  <br>
-</p>
+# hi, welcome to my corner!
+
 <img align="right" width="200" src="https://github.com/user-attachments/assets/6e88c743-06e0-4991-a1cd-e0922761ef64" alt="Melody's profile picture" />
-<p>
-  i'm Melody, a cs student @ purdue + tinkerer passionate about creating meaningful digital experiences at the intersection of creativity and technology.
-</p>
-<p>i'm interested in ...</p>
-<ul>
-  <li>fullstack development</li>
-  <li>ai research</li>
-  <li>creative problem solving</li>
-</ul>
-<h3 align="left">connect w/ me here:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/melody-yang-8634b5254/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="70" /></a><span>&nbsp;&nbsp;&nbsp;</span><a href="mailto:melodyyang2006@gmail.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="60" width="60" /></a><span>&nbsp;&nbsp;&nbsp;</span><a href="https://devpost.com/meoies?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img src="https://seekvectors.com/files/download/Devpost-logo.png" alt="Devpost" height="70" width="70" /></a>
-</p>
+
+i'm Melody, a cs student @ purdue + tinkerer passionate about creating meaningful digital experiences at the intersection of creativity and technology.
+
+i'm interested in ...
+- fullstack development
+- ai research
+- creative problem solving
+
+### connect w/ me here:
+
+[linkedin](https://www.linkedin.com/in/melody-yang-8634b5254/) · [email](mailto:melodyyang2006@gmail.com) · [devpost](https://devpost.com/meoies?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
