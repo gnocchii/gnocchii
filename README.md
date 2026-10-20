@@ -12,4 +12,4 @@ i'm currently interested in ...
 
 ### connect with me here:
 
-[linkedin](https://www.linkedin.com/in/melody-yang-8634b5254/) &nbsp;/&nbsp; [email](mailto:melodyyang2006@gmail.com) &nbsp;/&nbsp; [devpost](https://devpost.com/meoies?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) &nbsp;/&nbsp; [twitter](https://x.com/meoiles) 
+[linkedin](https://www.linkedin.com/in/melody-yang-8634b5254/) &nbsp;/&nbsp; [email](mailto:melodyyang2006@gmail.com) &nbsp;/&nbsp; [devpost](https://devpost.com/meoies?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) &nbsp;
